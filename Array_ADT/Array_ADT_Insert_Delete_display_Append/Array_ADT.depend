@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733996874 source:d:\siddhu_technical\practice_coding\array_adt\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
