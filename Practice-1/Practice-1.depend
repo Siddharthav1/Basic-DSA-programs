@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:d:\practice_coding\practice-1\main.cpp
+	<iostream>
+
+1732605422 source:d:\siddhu_technical\practice_coding\practice-1\main.cpp
+	<iostream>
+	<stdio.h>
+

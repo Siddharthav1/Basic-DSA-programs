@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733377728 source:d:\siddhu_technical\practice_coding\static_dynamic_array\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
